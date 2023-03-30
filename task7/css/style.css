@@ -1,0 +1,12 @@
+.p1 {
+  color: orange;
+}
+
+.part {
+  font-weight: 600;
+}
+
+.p3 {
+  background-image: url("../images/duck.png");
+  border: 2px solid red;
+}

@@ -1,0 +1,23 @@
+div {
+  width: fit-content;
+  position: relative;
+  left: 10%;
+}
+
+.field1 {
+  background-color: rgb(237, 243, 172);
+}
+
+.sub {
+  position: relative;
+  left: 100px;
+  top: 20px;
+}
+
+.firstname {
+  margin-left: 3px;
+}
+
+.divfield {
+  margin-left: 20%;
+}
